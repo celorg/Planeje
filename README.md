@@ -1,3 +1,13 @@
+## Planeje
+
+Esse aplicativo foi criado em React, pensei em criar um aplicativo para planejar dinheiro de um projeto
+
+A maior dificuldade desse aplicativo foi descobrir o porquê o json não estava funcionando
+
+ainda tem bastante coisa para acrescentar 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
