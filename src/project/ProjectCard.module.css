@@ -1,0 +1,51 @@
+.projectcard{
+    border: 1px solid #000;
+    width: 30%;
+    border-radius: 10px;
+    background-color:   #006494;
+}
+.projectcard h4{
+    background-color: #000;
+    padding: 1rem 0;
+    font-size: 22px;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+}
+.projectcard p {
+    text-align: left;
+    margin: 1.5rem;
+    color: #fff;
+}
+.projectcard p span{
+    font-weight: bolder;
+}
+
+.divbtn{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.divbtn button,
+.divbtn a{
+    width: 45%;
+    padding: 1rem 0;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
+.divbtn button{
+    background-color: #031634;
+}
+.divbtn a{
+    background-color: #036564;
+}
+
+.Pesquisa{
+    border-radius: 50%;
+    background-color: #445710;
+    height: 10px;
+    width: 10px;
+}

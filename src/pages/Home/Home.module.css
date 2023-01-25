@@ -1,0 +1,22 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.home h1{
+    margin: 2rem;
+    font-style: oblique;
+}
+.home h1 span{
+    color: #1b98e0;
+}
+.home p {
+    color: #aaa;
+    margin-bottom: 1rem;
+    font-size: 18px;
+}
+.home img {
+    margin-top: 0.5rem;
+    width: 60%;
+}

@@ -1,0 +1,38 @@
+.project {
+    padding: 2rem 0;
+}
+.project h4{
+    font-size: 28px;
+    font-weight: 800;
+}
+.detalhes{
+    max-width: 50%;
+    margin: 2rem auto;
+    text-align: left;
+}
+.project p{
+    margin: 1rem;
+}
+.project p span{
+    font-weight: bolder;
+}
+.tabela{
+    border: #000 1px solid;
+    margin: 0 auto;
+}
+.tabela, tr, td, th{
+    border-bottom :#000 solid 1px;
+    width:450px;
+    padding:0px;
+    font-size:20px;
+    border-collapse:collapse;
+}
+.tabela td{
+    width:150px;
+    height:30px;
+}
+.tabela th{
+    background-color:#000;
+    color:#FFF;
+    padding: 1rem ;
+}

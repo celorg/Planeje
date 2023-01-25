@@ -1,0 +1,10 @@
+.projectscontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+    padding: 2rem 0;
+    gap: 2rem;
+    row-gap: 2rem;
+}

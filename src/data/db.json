@@ -1,0 +1,87 @@
+{
+  "projetos": [
+    {
+      "titulo": "teste 2",
+      "investimento": "1200",
+      "categoria": "Desenvolvimento",
+      "objetivo": "projeto para amadores",
+      "saldo": "",
+      "gastos": [],
+      "id": 3
+    },
+    {
+      "titulo": "Música",
+      "investimento": "1800",
+      "categoria": "Desenvolvimento",
+      "objetivo": "criando meu albumm",
+      "saldo": "",
+      "gastos": [
+        {
+          "itemId": 1,
+          "produto": "produto teste"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "titulo": "Dança",
+      "investimento": "1800",
+      "categoria": "Tecnologia",
+      "objetivo": "Tentando dançar",
+      "saldo": "",
+      "gastos": [],
+      "id": 7
+    },
+    {
+      "titulo": "Primeiro Projeto",
+      "investimento": "1800",
+      "categoria": "Desenvolvimento",
+      "objetivo": "Tentando dar meu melhor na minha pior fase",
+      "saldo": "",
+      "gastos": [],
+      "id": 11
+    }
+  ],
+  "Categorias": [
+    {
+      "id": 1,
+      "nome": "Pesquisa"
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "nome": "Tecnologia"
+    },
+    {
+      "id": 4,
+      "nome": "Infra"
+    },
+    {
+      "id": 5,
+      "nome": "Outros"
+    }
+  ],
+  "gastos": [
+    {
+      "id": 1,
+      "projetoId": 5,
+      "item": "Produto Teste",
+      "preco": "100"
+    },
+    {
+      "projetoId": "5",
+      "item": "camisa",
+      "preco": "200",
+      "id": 2
+    },
+    {
+      "projetoId": "5",
+      "item": "computador ",
+      "preco": "2000",
+      "id": 3
+    }
+  ]
+}

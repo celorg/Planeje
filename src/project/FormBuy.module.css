@@ -1,0 +1,15 @@
+.btnform{
+    padding: 1rem 0;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: none;
+    background-color: #006494;
+    color: #fff;
+    font-size: 18px;
+    width: 100px;
+    margin: 1rem 0;
+}
+.btnform:hover{
+    background-color: #13293d;
+}
